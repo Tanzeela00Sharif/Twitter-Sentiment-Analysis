@@ -12,7 +12,9 @@ It categorizes tweets as **Positive, Negative, or Neutral** and visualizes senti
 
 ## 📊 Results  
 - **54% Negative**, **33% Neutral**, **12% Positive** sentiment detected.  
-- Insights suggest major concerns in user discussions.  
+- Insights suggest major concerns in user discussions.
+- ![image](https://github.com/user-attachments/assets/04e63623-e08d-4608-917a-e3d2a70c453e)
+ 
 
 ## 🚀 How to Use  
 1. Clone this repository  
